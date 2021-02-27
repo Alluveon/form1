@@ -1,3 +1,36 @@
-  body{
-      
-  }
+body {
+  background-color: rgb(39, 40, 43);
+  color: rgb(110, 184, 253);
+  padding-left: 50px;
+  padding-top: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1#title{
+
+}
+
+
+p{
+  font-weight: bold;
+}
+
+p#description{
+  font-weight: normal;
+  font-style: italic;
+
+}
+
+form{
+ 
+  background-color: rgba(165, 188, 236, 0.116);
+  width: 1000px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input{
+  color: rgb(22, 22, 22);
+  
+
+}
